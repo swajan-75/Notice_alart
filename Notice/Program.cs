@@ -7,8 +7,8 @@ using System.IO;
 
 class Program
 {
-    public static string token = "7166228483:AAGD2P3z0o004YCT9jPMTz_EogX3zBcMEo8";
-    public static string chatId = "1274939394";
+    public static string token = ""; // use telegram token
+    public static string chatId = ""; // use yout user id
 
     static async Task<string> GetHtmlContent(string url)
     {
