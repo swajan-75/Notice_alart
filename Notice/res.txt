@@ -1,0 +1,1359 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Category - Notices | AIUB, AIUB, Where Leaders Are Created">
+    <meta name="author" content="AIUB Software Development Department (itsd.aiub.edu)">
+	<meta property="og:url"                content="https://www.aiub.edu" />
+	<meta property="og:type"               content="website" />
+	<meta property="og:title"              content="American International University-Bangladesh (AIUB)" />
+	<meta property="og:description"        content="Where Leaders Are Created | American International University - Bangladesh (AIUB) is a government approved private university founded in 1994 by Dr. Anwarul Abedin. The university is an independent organization with its own Board of Trustees." />
+	<meta property="og:image"              content="https://www.aiub.edu/Files/Templates/NewAIUB/assets/img/aiub200_200.jpg" />
+    <link rel="favicon" href="/Files/Templates/NewAIUB/assets/img/favicon.ico">
+    <link rel="shortcut icon" href="/Files/Templates/NewAIUB/assets/img/favicon.ico">
+    <link rel="apple-touch-icon" href="/Files/Templates/NewAIUB/assets/img/favicon.ico">
+    <link rel="apple-touch-icon" sizes="72x72" href="/Files/Templates/NewAIUB/assets/img/aiub72_72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/Files/Templates/NewAIUB/assets/img/aiub144_144.png">
+    <title>Category - Notices | AIUB</title>
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"/>
+
+    <link href="/Content/NewAIUB?v=DiaUnOMGdshkngjunNvnJWoZELE8aO5xJcJsAS4rAnA1" rel="stylesheet"/>
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <script src="/bundles/NewAIUB?v=Hewh2t6nYWhq1Tuu3UdHpH8Xa0xTrz3bU6s1Utfttkc1"></script>
+
+    
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments);
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m);
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-51559817-4', 'auto');
+        ga('send', 'pageview');
+    </script>
+
+    <noscript>
+        <div class="alert alert-danger" role="alert">
+            <strong>Warning!</strong> Your web browser's JavaScript is disable. For full functionality of this site it is necessary to enable JavaScript. Here are the <a href="http://www.enable-javascript.com/" class="alert-link" target="_blank">instructions how to enable JavaScript in your web browser</a>
+        </div>
+    </noscript>
+
+
+
+    <div class="header">
+        <div id="top-header">
+<div class="fixed-top  d-md-none d-xl-none">
+        <nav class="navbar navbar-expand-lg  navbar-light bg-light no-gutters">
+            <div class="container">
+                
+				<a id="brand" class="navbar-brand  pl-2 pt-2 mb-2" href="/" title="American International University-Bangladesh (AIUB)">
+                            <img src="/Files/Templates/NewAIUB/assets/images/aiub-logo.svg" alt="American International University-Bangladesh (AIUB)">
+                            <h1>American <br>International<br>University-<br>Bangladesh</h1>
+                            <h4>where leaders are created</h4>
+                        </a>
+                <button class="navbar-toggler mr-2" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+
+                <div class="collapse navbar-collapse text-center bg-primary  mt-2 " id="navbarSupportedContent">
+				
+								<div class="navbar-brand-two pt-1 pb-1 mt-1 navbar-brand-two text-white d-flex justify-content-around border-bottom border-info">
+										<a class=" text-white" href="//portal.aiub.edu/"><i class="fa fa-user"></i><span> Login</span></a>
+										<a class=" text-white" href="//portal.office.com/"><i class="fa fa-envelope"></i><span> Mail</span></a>
+										<a class=" text-white" href="/contact-us"><i class="fa fa-address-book"></i><span > Contact</span></a>
+									
+								</div>
+								<ul class="navbar-nav">
+      
+								  <li class="nav-item dropdown">
+									<a class="nav-link dropdown-toggle" href="#"  data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+									  About
+									   <span class="sr-only">(current)</span>
+									</a>
+									<ul class="dropdown-menu text-center" aria-labelledby="navbarDropdownMenuLink">
+									  <li><a class="dropdown-item" href="/about/information">Information</a></li>
+									  <li><a class="dropdown-item" href="/about/general-information">General Information</a></li>
+									  <li><a class="dropdown-item" href="/about/Rules-Of-Entry">Rules of Campus Entry</a></li>
+									  <li><a class="dropdown-item" href="/about/Why-Study-Here">Why Study Here</a></li>
+									  <li><a class="dropdown-item" href="/about/Resources">Resources</a></li>
+									  <li><a class="dropdown-item" href="/about/career">Career</a></li>
+									  <li><a class="dropdown-item" href="/about/Convocation">Convocation</a></li>
+									  <li><a class="dropdown-item" href="/about/Video">Video</a></li>
+										</ul>
+									  </li>
+								  
+								   <li class="nav-item dropdown">
+									<a class="nav-link dropdown-toggle" href="#"  data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+									  Academics
+									</a>
+									<ul class="dropdown-menu text-center" aria-labelledby="navbarDropdownMenuLink">
+									  
+									  <li class="dropdown-submenu">
+										<a class="dropdown-item dropdown-toggle" href="#"><i class="fa fa-sitemap"></i> Faculties</a>
+										<ul class="dropdown-menu text-center">
+										  <li><a class="dropdown-item" href="/faculties/fass"><i class="fa fa-graduation-cap"></i>Faculty of Arts and Social Sciences</a></li>
+										  <li><a class="dropdown-item" href="/faculties/fba"><i class="fa fa-graduation-cap"></i>Faculty of Business Administration</a></li><li><a class="dropdown-item" href="/faculties/engg"><i class="fa fa-graduation-cap"></i>Faculty of Engineering</a></li><li><a class="dropdown-item" href="/faculties/fst"><i class="fa fa-graduation-cap"></i>Faculty of Science and Technology</a></li>
+										  
+										  
+							</ul>
+									  </li>
+									  
+									  
+									  <li class="dropdown-submenu">
+										<a class="dropdown-item dropdown-toggle" href=""><i class="fa fa-info-circle"></i>  Information
+																		</a>
+										<ul class="dropdown-menu text-center">
+										  <li><a class="dropdown-item" href="/academic-calendar"><i class="fa fa-calendar"></i> Academic Calendar</a></li>
+										  <li><a class="dropdown-item" href="/academic-regulations"><i class="fa fa-bars"></i> Academic Regulations</a></li>
+										  <li><a class="dropdown-item" href="#"><i class="fa fa-server"></i>Course Catalog</a></li>
+										  <li><a class="dropdown-item" href="/tuition-fee"><i class="fa fa-money"></i>Tuition Fee</a></li>
+										   <li><a class="dropdown-item" href="/Faculty-List"><i class="fa fa-users "></i> Faculty List</a></li>
+										  
+										  
+							</ul>
+									  </li>
+									  
+									  <li class="dropdown-submenu">
+										<a class="dropdown-item dropdown-toggle" href="#"><i class="fa fa-handshake-o"></i>Partnerships</a>
+										<ul class="dropdown-menu text-center">
+										  <li><a class="dropdown-item" href="/partnerships/internationalization"><i class="fa fa-globe"></i>Internationalization</a></li>
+										  <li><a class="dropdown-item" href="/partnerships/academic-partners"><i class="fa fa-handshake-o"></i>Academic Partners</a></li><li><a class="dropdown-item" href="/partnerships/strategic-partners"><i class="fa fa-handshake-o"></i>Strategic Partners</a></li>
+										 
+										  
+										  
+							</ul>
+									  </li>
+									  
+									  <li class="dropdown-submenu">
+										<a class="dropdown-item dropdown-toggle" href="#"><i class="fa fa-university"></i> Institutes</a>
+										<ul class="dropdown-menu text-center">
+										  <li><a class="dropdown-item" href="//ice.aiub.edu/"><i class="fa fa-fire"></i>Institute of Continuing Education</a></li>
+										  
+										  
+										  
+							</ul>
+									  </li>
+									  <li class="dropdown-submenu">
+										<a class="dropdown-item dropdown-toggle" href="#"><i class="fa fa-certificate"></i> Accreditations</a>
+										<ul class="dropdown-menu text-center">
+										  <li><a class="dropdown-item" href="/iqac"><i class="fa fa-fire"></i>IQAC</a></li>
+										  <li><a class="dropdown-item" href="/cetl"><i class="fa fa-fire"></i>CETL</a></li>
+										  
+										  
+							</ul>
+									  </li>
+									  
+									  
+									</ul>
+								
+								  </li>
+								  <li class="nav-item">
+									<a class="nav-link" href="/admission">Admission</a>
+								  </li>
+								  <li class="nav-item">
+									<a class="nav-link" href="/onCampus">On Campus</a>
+								  </li>
+								  
+								  <li class="nav-item dropdown">
+									<a class="nav-link dropdown-toggle" href="/#"  data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+									  Administration
+									 
+									</a>
+									<ul class="dropdown-menu text-center" aria-labelledby="navbarDropdownMenuLink">
+									  <li><a class="dropdown-item" href="/Administration/The-Vice-Chancellor">The Vice Chancellor</a></li>
+									  <li><a class="dropdown-item" href="/faculty-list/faculty-profile#arahman@aiub.edu">The Pro Vice Chancellor</a></li>
+									  <li><a class="dropdown-item" href="/Administration/The-Chairman">The Chairman</a></li>
+									  <li><a class="dropdown-item" href="/Administration/The-Founders">The Founders</a></li>
+									  <li><a class="dropdown-item" href="/administration/institutional-policy">Institutional Policy</a></li>
+									  <li class="dropdown-submenu">
+										<a class="dropdown-item dropdown-toggle" href="#"> Offices</a>
+										<ul class="dropdown-menu text-center">
+											<!--<li><a class="dropdown-item" href="/offices/acre" title="AIUB Center for Research and Excellence (ACRE)">Center for Research and Excellence</a></li>-->
+											<li><a class="dropdown-item" href="/offices/oce" title="Office of the Controller of Examinations(OCE)">Office of Controller of Examinations</a></li>
+											<li><a class="dropdown-item" href="/offices/oca" title="Office of Cultural Affairs (OCA)">Office of Cultural Affairs</a></li>
+											<li><a class="dropdown-item" href="/offices/ofa" title="Office of Finance and Audit (OFA)">Office of Finance and Audit</a></li>
+											
+											<li><a class="dropdown-item" href="/offices/hrd" title="Office of Human Resources (HRD)">Office of Human Resources</a></li>
+											<li><a class="dropdown-item" href="/offices/opa" title="Office of Placement & Alumni (OPA)">Office of Placement & Alumni</a></li>
+											<li><a class="dropdown-item" href="/offices/opd" title="Office of Planning &amp; Development (OPD)">Office of Planning &amp; Development</a></li>
+											<li><a class="dropdown-item" href="/offices/op" title="Office of Probation (OP)">Office of Probation</a></li>
+											<li><a class="dropdown-item" href="/offices/opr" title="Office of Public Relations (OPR)">Office of Public Relations</a></li>
+											<li><a class="dropdown-item" href="/offices/or" title="Office of the Registrar (OR)">Office of Registrar</a></li>
+											<li><a class="dropdown-item" href="/offices/os" title="Office of Sports (OS)">Office of Sports</a></li>
+											<li><a class="dropdown-item" href="/offices/osa" title="Office of Student Affairs(OSA)">Office of Student Affairs</a></li>
+										  
+										  
+										  
+							</ul>
+									  </li>
+									 
+									   
+									  
+
+
+
+										</ul>
+									  </li>
+								  
+								  
+								   <li class="nav-item dropdown">
+									<a class="nav-link dropdown-toggle" href="/research"  data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+									  Research
+									 
+									</a>
+									<ul class="dropdown-menu text-center" aria-labelledby="navbarDropdownMenuLink">
+									  <li><a class="dropdown-item" href="//orp.aiub.edu">ORP</a></li>
+									  <li><a class="dropdown-item" href="/publications">Publications</a></li>
+										<li class="dropdown-submenu">
+											<a class="dropdown-item dropdown-toggle" href="#"> Journals</a>
+											<ul class="dropdown-menu text-center">
+											  
+											  
+											  
+											  
+											  
+											   <li><a class="dropdown-item" href="//ajbe.aiub.edu">AJBE</a></li>
+													  <li><a class="dropdown-item" href="http://ajse.aiub.edu/">AJSE</a></li>
+										 
+											  
+											  
+											  
+											</ul>
+										  </li>
+										  <li><a class="dropdown-item" href="/files/research/">Research Groups</a></li>
+										  <li><a class="dropdown-item" href="/irb">IRB</a></li>
+										<li class="dropdown-submenu">
+											<a class="dropdown-item dropdown-toggle" href="#">Research Center</a>
+											<ul class="dropdown-menu text-center">
+												<li>
+													<a class="dropdown-item"  title="Center for Sustainable Energy Research (CSER)" href="/research/research-center/center-for-sustainable-energy-research-cser">CSER</a>
+												</li>
+												<li>
+													<a class="dropdown-item"  title="CENTER FOR NANOTECHNOLOGY RESEARCH (CNR)" href="/research/research-center/center-for-nanotechnology-research-cnr">CNR</a>
+												</li>
+												<li>
+													<a class="dropdown-item"  title="Business Incubation Center (BIC)" href="/research/research-center/business-incubation-center">BIC</a>
+												</li>
+											</ul>
+										</li>
+									  <li class="dropdown-submenu">
+										<a class="dropdown-item dropdown-toggle" href="#"> Conferences</a>
+										<ul class="dropdown-menu text-center">
+										  
+										  
+										  
+										  
+										  
+										  <li><a class="dropdown-item" href="/research/upcoming-conferences">Upcoming</a></li>
+										  <li><a class="dropdown-item" href="/research/past-conferences">Past</a></li>
+									 
+										  
+										  
+										  
+										</ul>
+									  </li>
+									  <li><a class="dropdown-item" href="/library">Library</a></li>
+									  <li><a class="dropdown-item" href="/research/collaborating-institutes">Collaborating Institutes</a></li>
+									  <li><a class="dropdown-item" href="/research/innovations">Innovations</a></li>
+									 
+									   
+									  
+
+
+
+										</ul>
+									  </li>
+								  
+							  
+								</ul>
+                    
+                </div>
+            </div>
+        </nav>
+
+        <nav class="navbar navbar-expand navbar-light bg-primary">
+            <div class="navbar-nav-scroll  mx-auto" style=" ">
+                <ul class="navbar-nav bd-navbar-nav flex-row">
+                        <li class="nav-item">
+                            <a class="nav-link"  href="/Alumni">Alumni</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link"  href="/about/Rules-Of-Entry">Visitors</a>
+                        </li>
+                            <li class="nav-item"><a class="nav-link" href="#"></a></li>
+                        <li class="nav-item">
+                            <a class="nav-link"  href="/future-Students">Future Students</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link"  href="/about/Convocation">Convocation</a>
+                        </li>
+                    
+                </ul>
+            </div>
+        </nav>
+    </div>
+	
+	
+<div class="top-bar-menu  d-sm-none d-lg-block d-md-block">
+    <div class="top-bar">
+        <div class="scroller">
+                    <div>
+						<img src="/Files/Templates/NewAIUB/assets/images/logo/BANNER-HEADING.png"/> 
+					</div>
+  
+            
+        </div>
+        <div class="top-bar-right-menu">
+            <div class="d-flex justify-content-end">
+                 <form class="search" action="/search/" method="get">
+                    <div class="input-group input-group-sm">
+                        <input id="search-input" name="key" type="text" class="form-control  d-none d-md-inline d-xs-none" placeholder="Search" aria-label="Search" aria-describedby="Search" />
+                        <div class="input-group-append  d-none d-md-inline d-xs-none">
+                            <button class="btn btn-outline-primary" type="submit" id="button-addon2">
+                                <i class="fa fa-search"></i>
+                            </button>
+                        </div>
+                    </div>
+                </form>
+                <ul class="d-flex">
+                    <li class=""><a href="//portal.aiub.edu/"><i class="fa fa-user"></i><span class="d-none d-md-inline d-xs-none"> Login</span></a></li>
+                    <li class=""><a href="//portal.office.com/"><i class="fa fa-envelope"></i><span class="d-none d-md-inline d-xs-none"> Web Mail</span></a></li>
+                    <li class=""><a href="/contact-us"><i class="fa fa-address-book"></i><span class="d-none d-md-inline d-xs-none"> Contact Us</span></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="top-menu container  d-none d-lg-block d-md-block">
+        <div class="menu">
+            <ul class="menu-1">
+                <li>
+                    <a href="/about">About</a>
+                    <ul class="sub-menu top-dropdown-menu dropdown-menu-1">
+                        <li>
+                            <a href="/about/Information">Information</a>
+                        </li>
+                        <li>
+                            <a href="/about/general-information">General Information</a>
+                        </li>
+                        <li>
+                            <a href="/about/Rules-Of-Entry">Rules of Campus Entry</a>
+                        </li>
+                        <li>
+                            <a href="/about/Why-Study-Here">Why Study Here</a>
+                        </li>
+                        <li>
+                            <a href="/about/Resources">Resources</a>
+                        </li>
+                        <li>
+                            <a href="/about/career">Career</a>
+                        </li>
+                        <li>
+                            <a href="/about/Convocation">Convocation</a>
+                        </li>
+                        <li>
+                            <a href="/about/Video">Video</a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#">Academics</a>
+                    <div class="container mega-menu">
+                        <div class="aiub-footer-wrapper">
+                            <div class="aiub-footer-container container clearfix">
+                                <div class="row">
+                                    <div class="col-md-3 col-sm-6 aiub-item-pdlr aiub-column-15">
+                                        <div class="aiub-widget">
+                                            <h3 class="aiub-widget-title-color ml-1">
+                                                <i class="fa fa-sitemap" aria-hidden="true"></i> Faculties
+                                            </h3>
+                                            <span class="clear"></span>
+                                            <div class="menu-our-campus-container">
+                                                <ul id="menu-our-campus" class=" ">
+                                                    <li class="menu-item">
+                                                        <a href="/faculties/fass">
+                                                            <i class="fa fa-graduation-cap"></i> Faculty of Arts and Social Sciences
+                                                        </a>
+                                                    </li>
+                                                    <li class="menu-item">
+                                                        <a href="/faculties/fba">
+                                                            <i class="fa fa-graduation-cap"></i> Faculty of Business Administration
+                                                        </a>
+                                                    </li>
+                                                    <li class="menu-item">
+                                                        <a href="/faculties/engg">
+                                                            <i class="fa fa-graduation-cap"></i> Faculty of Engineering
+                                                        </a>
+                                                    </li>
+                                                    <li class="menu-item">
+                                                        <a href="/faculties/fst">
+                                                            <i class="fa fa-graduation-cap"></i> Faculty of Science and Technology
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3 col-sm-6 aiub-item-pdlr aiub-column-15">
+                                        <div class="aiub-widget">
+                                            <h3 class="aiub-widget-title-color ml-1">
+                                                <i class="fa fa-info-circle"></i> Information
+                                            </h3>
+                                            <span class="clear"></span>
+                                            <div class="menu-campus-life-container">
+                                                <ul id="menu-campus-life">
+                                                    <li class="menu-item">
+                                                        <a href="/academic-calendar">
+                                                            <i class="fa fa-calendar" aria-hidden="true"></i> Academic Calendar
+                                                        </a>
+                                                    </li>
+                                                    <li class="menu-item">
+                                                        <a href="/academic-regulations">
+                                                            <i class="fa fa-bars" aria-hidden="true"></i> Academic Regulations
+                                                        </a>
+                                                    </li>
+                                                    <li class="menu-item">
+                                                        <a href="#">
+                                                            <i class="fa fa-server"></i> Course Catalog
+                                                        </a>
+                                                    </li>
+                                                    <li class="menu-item">
+                                                        <a href="/tuition-fee">
+                                                            <i class="fa fa-money"></i> Tuition Fee
+                                                        </a>
+                                                    </li>
+                                                    <li class="menu-item">
+                                                        <a href="/Faculty-List">
+                                                            <i class="fa fa-users "></i> Faculty List
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3 col-sm-6 aiub-item-pdlr aiub-column-15">
+                                        <div class="widget widget_ aiub-widget">
+                                            <h3 class="aiub-widget-title-color ml-1">
+											
+                                                <img style="margin-top: -5px; padding-bottom:0px;width:20px" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyAQMAAAAk8RryAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURUdwTABOoskIJB4AAAABdFJOUwBA5thmAAABFUlEQVQY003QsU7DMBAG4IsiJQskK0hRwiMwtgPNyMYzlIk1VZYOFQSxwyP0FRg7VNVVGdjalSFqjTJkrCsGHFHZ3DkZ8PJJZ/tO9wOAr8CeXse7uGLdXSxtWSf2IpzUSzYOTzEbJTpgz6a3r+xj/r0vSNO0BqlNuYmkoDbPVSAysqg8tH56eP3fvt6/c9abQIwBjvVbNKH/p8YfDJHbmrT9RdjWJA0ohXQxRcAjgpghrFsF95Lcm+IByblRT0CuXDMjy0U4l+z7yEU2G1B3NldAlY9xuoSwYGMYAeivygfFc9F9oZeJEZdb2s/VKtK877m6m9pcdk1mc1rlwub2c2N1GhsHwOHQOdNdzsPeZNEZyk6P/QOucYnIRyi7FAAAAABJRU5ErkJggg=="
+                                                     alt=""> Partnerships
+                                            </h3>
+                                            <span class="clear"></span>
+                                            <div class="menu-academics-container">
+                                                <ul id="menu-academics" class=" ">
+                                                    <li class="menu-item">
+                                                        <a href="/partnerships/internationalization">
+                                                            <i class="fa fa-globe"></i> Internationalization
+                                                        </a>
+                                                    </li>
+													<li class="menu-item">
+														<a href="/partnerships/academic-partners">
+															<i class="fa fa-handshake-o"></i> Academic Partners
+														</a>
+													</li>
+													<li class="menu-item">
+														<a href="/partnerships/strategic-partners">
+															<i class="fa fa-handshake-o"></i> Strategic Partners
+														</a>
+													</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3 col-sm-6 aiub-item-pdlr aiub-column-15">
+                                        <div class="widget widget_ aiub-widget">
+                                            <h3 class="aiub-widget-title-color ml-1">
+                                                <i class="fa fa-university"></i> Institutes
+                                            </h3>
+                                            <span class="clear"></span>
+                                            <div class="menu-academics-container">
+                                                <ul id="menu-academics" class=" ">
+                                                    <li class="menu-item">
+                                                        <a href="//ice.aiub.edu/">
+                                                            <i class="fa fa-fire"></i> Institute of Continuing Education
+                                                        </a>
+                                                    </li>
+
+                                                </ul>
+                                            </div>
+                                        </div>
+										<div class="widget widget_ aiub-widget pt-1">
+                                            <h3 class="aiub-widget-title-color ml-1" >
+                                                <i class="fa fa-certificate"></i> Accreditations
+                                            </h3>
+                                            <span class="clear"></span>
+                                            <div class="menu-academics-container">
+                                                <ul id="menu-academics" class=" ">
+                                                    <li class="menu-item">
+                                                        <a href="/iqac">
+                                                            <i class="fa fa-fire"></i> IQAC
+                                                        </a>
+                                                    </li>
+													<li> <a href="/cetl">
+                                                            <i class="fa fa-fire"></i> CETL
+                                                        </a>
+													</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <a href="/admission">Admission</a>
+                </li>
+            </ul>
+            <a href="/">
+                <div class="logo">
+                    <img src="/Files/Templates/NewAIUB/assets/images/aiub-logo.svg" alt="logo" />
+                </div>
+            </a>
+            <ul class="menu-2">
+                <li>
+                    <a href="/onCampus">On Campus</a>
+                </li>
+                <li>
+                    <a href="#">Administration</a>
+                    <ul class="sub-menu top-dropdown-menu dropdown-menu-1">
+                        <li>
+                            <a href="/Administration/The-Vice-Chancellor">The Vice Chancellor</a>
+                        </li>
+						<li>
+                            <a href="/faculty-list/faculty-profile#arahman@aiub.edu">The Pro Vice Chancellor</a>
+                        </li>
+                        <li>
+                            <a href="/Administration/The-Chairman">The Chairman</a>
+                        </li>
+                        <li>
+                            <a href="/Administration/The-Founders">The Founders</a>
+                        </li>
+                        <li>
+                            <a href="/administration/institutional-policy">Institutional Policy</a>
+                        </li>
+                        <li class="nested-sub-menu nested-office-sub-menu">
+                            <a href="#">Offices</a>
+                            <ul class="sub-menu top-dropdown-menu dropdown-menu-1" style="margin-top: -155px;">
+                              <!-- <li><a href="/offices/acre" title="AIUB Center for Research and Excellence (ACRE)">Center for Research and Excellence</a></li> -->
+								<li><a href="/offices/oce" title="Office of the Controller of Examinations(OCE)">Office of Controller of Examinations</a></li>
+								<li><a href="/offices/oca" title="Office of Cultural Affairs (OCA)">Office of Cultural Affairs</a></li>
+								<li><a href="/offices/ofa" title="Office of Finance and Audit (OFA)">Office of Finance and Audit</a></li>
+								
+								<li><a href="/offices/hrd" title="Office of Human Resources (HRD)">Office of Human Resources</a></li>
+								<li> <a href="/offices/opa" title="Office of Placement & Alumni (OPA)">Office of Placement & Alumni</a></li>
+								<li><a href="/offices/opd" title="Office of Planning &amp; Development (OPD)">Office of Planning &amp; Development</a></li>
+								<li><a href="/offices/op" title="Office of Probation (OP)">Office of Probation</a></li>
+								<li><a href="/offices/opr" title="Office of Public Relations (OPR)">Office of Public Relations</a></li>
+								<li><a href="/offices/or" title="Office of the Registrar (OR)">Office of Registrar</a></li>
+								<li><a href="/offices/os" title="Office of Sports (OS)">Office of Sports</a></li>
+								<li><a href="/offices/osa" title="Office of Student Affairs(OSA)">Office of Student Affairs</a></li>
+
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="/research">Research</a>
+                    <ul class="sub-menu top-dropdown-menu dropdown-menu-1">
+                        <li>
+                            <a href="//orp.aiub.edu">ORP</a>
+                        </li>
+						<li>
+                            <a href="/publications">Publications</a>
+                        </li>
+						<li class="nested-sub-menu">
+                            <a href="#">Journals</a>
+							<ul class="sub-menu top-dropdown-menu dropdown-menu-1">
+								<li>
+									<a href="//ajbe.aiub.edu">AJBE</a>
+								</li>
+								<li>
+									<a href="http://ajse.aiub.edu/">AJSE</a>
+								</li>
+									
+                            </ul>
+                        </li>
+						<li>
+							<a href="/files/research/">Research Groups</a>
+						</li>
+						<li>
+							<a href="/irb">IRB</a>
+						</li>
+                        <li class="nested-sub-menu">
+                            <a href="#">Research Center</a>
+							<ul class="sub-menu top-dropdown-menu dropdown-menu-1">
+                                <li>
+                                    <a title="Center for Sustainable Energy Research (CSER)" href="/research/research-center/center-for-sustainable-energy-research-cser">CSER</a>
+                                </li>
+                                <li>
+                                    <a title="CENTER FOR NANOTECHNOLOGY RESEARCH (CNR)" href="/research/research-center/center-for-nanotechnology-research-cnr">CNR</a>
+                                </li>
+								<li>
+                                    <a title="Business Incubation Center (BIC)" href="/research/research-center/business-incubation-center">BIC</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="nested-sub-menu">
+                            <a href="#">Conferences</a>
+                            <ul class="sub-menu top-dropdown-menu dropdown-menu-1">
+                                <li>
+                                    <a href="/research/upcoming-conferences ">Upcoming</a>
+                                </li>
+                                <li>
+                                    <a href="/research/past-conferences">Past</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="/library">Library</a>
+                        </li>
+                        <li>
+                            <a href="/research/collaborating-institutes">Collaborating&nbsp;Institutes</a>
+                        </li>
+                        <li>
+                            <a href="/research/innovations">Innovations</a>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div></div>
+        <div class="top-bottom-bar d-none d-lg-block d-md-block">
+            <div class="menu container">
+                <ul class="menu-2">
+                        <li>
+                            <a  href="/Alumni">Alumni</a>
+                        </li>
+                        <li>
+                            <a  href="/about/Rules-Of-Entry">Visitors</a>
+                        </li>
+                            <li><a href="#"></a></li>
+                        <li>
+                            <a  href="/future-Students">Future Students</a>
+                        </li>
+                        <li>
+                            <a  href="/about/Convocation">Convocation</a>
+                        </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+<div id="top-fix"></div>
+
+    <script>
+        $(document).ready(function() {
+		
+		if(window.outerWidth>767)
+		   {
+			 $(window).scroll(function () {
+				if ($(this).scrollTop() > 0) {
+					$('div.top-menu > div >a> div > img').addClass('img-small');
+					$('div.top-bar-menu').addClass('top-bar-menu-visible');
+					$('div.logo').addClass('logo-small');
+					$("#top-fix").show();
+					$(".top-bottom-bar").hide();
+				} else {
+					$('div.top-menu > div >a> div > img').removeClass('img-small');
+					$('div.top-bar-menu').removeClass('top-bar-menu-visible');
+					$('div.logo').removeClass('logo-small');
+					$("#top-fix").hide();
+					$(".top-bottom-bar").show();
+				}
+			});
+		   }else if(window.outerWidth<=767 && window.outerWidth>0){
+				$("#top-fix").show();
+		   }
+        });
+    </script>
+
+
+        
+
+<div id="top-fix"></div>
+
+<div class="aiub-breadcrumb container"> 
+		<nav aria-label="breadcrumb">
+			<ol class="breadcrumb">
+				<li class="breadcrumb-item"><a href="/">Home</a></li>
+				<li class="breadcrumb-item active" aria-current="page"><a href="#"></a> Notices</li>
+			</ol>
+		</nav>
+		<div class="row pb-5">
+			<div class="col-sm-12 text-center">
+				<h1 class="header-title">Notices</h1>
+			</div>
+		</div>
+    </div>
+<div class="container">
+    
+    <div class="row">
+        <div class="col-xs-12 col-sm-12 col-md-12">
+            <div class="row">
+                <div class="col-md-9">
+                    <ul class="pagination" style="margin: 0 0 10px;">
+                        <li class="page-item">
+                            <a class="page-link" href="/category/notices?pageNo=1&pageSize=20" aria-label="Previous">
+                                <span aria-hidden="true"><i class="fa fa-fast-backward"></i></span>
+                            </a>
+                        </li>
+                            <li class="page-item active"><a class="page-link" href="/category/notices?pageNo=1&pageSize=20">1</a></li>
+                            <li class="page-item"><a class="page-link" href="/category/notices?pageNo=2&pageSize=20">2</a></li>
+                            <li class="page-item"><a class="page-link" href="/category/notices?pageNo=3&pageSize=20">3</a></li>
+                            <li class="page-item"><a class="page-link" href="/category/notices?pageNo=4&pageSize=20">4</a></li>
+                            <li class="page-item"><a class="page-link" href="/category/notices?pageNo=5&pageSize=20">5</a></li>
+                        <li class="page-item">
+                            <a class="page-link" href="/category/notices?pageNo=156&pageSize=20" aria-label="Last">
+                                <span aria-hidden="true"><i class="fa fa-fast-forward"></i></span>
+                            </a>
+                        </li>
+                    </ul>
+                    
+
+                </div>
+                <div class="col-md-3 pull-right">
+                    <nav>
+                        <ul class="pager" style="margin: 0 0 10px; text-align:right">
+                            <li><a href="/category/notices?pageNo=0&pageSize=20"><i class="fa fa-step-backward"></i> Previous</a></li>
+                            <li><a href="/category/notices?pageNo=2&pageSize=20">Next <i class="fa fa-step-forward"></i></a></li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+            <ul class="event-list">
+                    <li>
+
+                            <time datetime="Y-0-23">
+                                <span class="day">23</span>
+                                <span class="month">May</span>
+                                <span class="year">2024</span>
+                            </time>
+                        <a href="/summer--2023-24-final-registration-steps-for-the-students-of-department-of-eee-coe--ipe"></a>
+                        <div class="info">
+                            <h2 class="title">SUMMER  2023-24 FINAL REGISTRATION STEPS FOR THE STUDENTS OF DEPARTMENT OF EEE, CoE &amp; IPE</h2>
+                            <p class="desc">&nbsp; &nbsp; &nbsp; Steps &nbsp; </p>
+                            <a class="info-link" href="/summer--2023-24-final-registration-steps-for-the-students-of-department-of-eee-coe--ipe">
+                                <div>
+                                    <span class="fa fa-link"></span> Details
+                                </div>
+                            </a>
+                        </div>
+                        <div class="social">
+                            <ul>
+                                <li class="facebook" style="width: 33%;"><a href="http://www.facebook.com/sharer/sharer.php?u=summer--2023-24-final-registration-steps-for-the-students-of-department-of-eee-coe--ipe" onclick=" javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false; ">f</a></li>
+                                <li class="twitter" style="width: 33%;"><a href="http://twitter.com/intent/tweet?url=summer--2023-24-final-registration-steps-for-the-students-of-department-of-eee-coe--ipe/&text=SUMMER  2023-24 FINAL REGISTRATION STEPS FOR THE STUDENTS OF DEPARTMENT OF EEE, CoE &amp; IPE - &nbsp; &nbsp; &nbsp; Steps &nbsp; " onclick=" javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false; ">t</a></li>
+                                <li class="google-plus" style="width: 33%;"><a href="https://plus.google.com/share?url=summer--2023-24-final-registration-steps-for-the-students-of-department-of-eee-coe--ipe" onclick=" javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false; ">g+</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+
+                            <time datetime="Y-0-23">
+                                <span class="day">23</span>
+                                <span class="month">May</span>
+                                <span class="year">2024</span>
+                            </time>
+                        <a href="/final-registration-instructions-and-guidelines---fst-summer-23-24"></a>
+                        <div class="info">
+                            <h2 class="title">Final Registration Instructions and Guidelines - FST Summer 23-24</h2>
+                            <p class="desc">&nbsp; &nbsp; &nbsp; Guidelines &nbsp; </p>
+                            <a class="info-link" href="/final-registration-instructions-and-guidelines---fst-summer-23-24">
+                                <div>
+                                    <span class="fa fa-link"></span> Details
+                                </div>
+                            </a>
+                        </div>
+                        <div class="social">
+                            <ul>
+                                <li class="facebook" style="width: 33%;"><a href="http://www.facebook.com/sharer/sharer.php?u=final-registration-instructions-and-guidelines---fst-summer-23-24" onclick=" javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false; ">f</a></li>
+                                <li class="twitter" style="width: 33%;"><a href="http://twitter.com/intent/tweet?url=final-registration-instructions-and-guidelines---fst-summer-23-24/&text=Final Registration Instructions and Guidelines - FST Summer 23-24 - &nbsp; &nbsp; &nbsp; Guidelines &nbsp; " onclick=" javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false; ">t</a></li>
+                                <li class="google-plus" style="width: 33%;"><a href="https://plus.google.com/share?url=final-registration-instructions-and-guidelines---fst-summer-23-24" onclick=" javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false; ">g+</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+
+                            <time datetime="Y-0-21">
+                                <span class="day">21</span>
+                                <span class="month">May</span>
+                                <span class="year">2024</span>
+                            </time>
+                        <a href="/holiday-memo-buddha-purnima-boishakhi-purnima-2024"></a>
+                        <div class="info">
+                            <h2 class="title">Holiday Memo: Buddha Purnima (Boishakhi Purnima)-2024</h2>
+                            <p class="desc">&nbsp; &nbsp; &nbsp; Memo &nbsp; </p>
+                            <a class="info-link" href="/holiday-memo-buddha-purnima-boishakhi-purnima-2024">
+                                <div>
+                                    <span class="fa fa-link"></span> Details
+                                </div>
+                            </a>
+                        </div>
+                        <div class="social">
+                            <ul>
+                                <li class="facebook" style="width: 33%;"><a href="http://www.facebook.com/sharer/sharer.php?u=holiday-memo-buddha-purnima-boishakhi-purnima-2024" onclick=" javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false; ">f</a></li>
+                                <li class="twitter" style="width: 33%;"><a href="http://twitter.com/intent/tweet?url=holiday-memo-buddha-purnima-boishakhi-purnima-2024/&text=Holiday Memo: Buddha Purnima (Boishakhi Purnima)-2024 - &nbsp; &nbsp; &nbsp; Memo &nbsp; " onclick=" javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false; ">t</a></li>
+                                <li class="google-plus" style="width: 33%;"><a href="https://plus.google.com/share?url=holiday-memo-buddha-purnima-boishakhi-purnima-2024" onclick=" javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false; ">g+</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+
+                            <time datetime="Y-0-20">
+                                <span class="day">20</span>
+                                <span class="month">May</span>
+                                <span class="year">2024</span>
+                            </time>
+                        <a href="/final-result-of-up-coming-semester-23-24-slot-2"></a>
+                        <div class="info">
+                            <h2 class="title">Final Result of Up-Coming Semester 23-24 (Slot-2)</h2>
+                            <p class="desc">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; American International University-Bangladesh (AIUB) Admission &amp; Registration Procedure and Schedule For Up-Coming Semester 2023-24 &nbsp; Online&nbsp;Admission&nbsp;Date:&nbsp;MAY 21 &ndash; 28, ...</p>
+                            <a class="info-link" href="/final-result-of-up-coming-semester-23-24-slot-2">
+                                <div>
+                                    <span class="fa fa-link"></span> Details
+                                </div>
+                            </a>
+                        </div>
+                        <div class="social">
+                            <ul>
+                                <li class="facebook" style="width: 33%;"><a href="http://www.facebook.com/sharer/sharer.php?u=final-result-of-up-coming-semester-23-24-slot-2" onclick=" javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false; ">f</a></li>
+                                <li class="twitter" style="width: 33%;"><a href="http://twitter.com/intent/tweet?url=final-result-of-up-coming-semester-23-24-slot-2/&text=Final Result of Up-Coming Semester 23-24 (Slot-2) - &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; American International University-Bangladesh (AIUB) Admission &amp; Registration Procedure and Schedule For Up-Coming Semester 2023-24 &nbsp; Online&nbsp;Admission&nbsp;Date:&nbsp;MAY 21 &ndash; 28, ..." onclick=" javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false; ">t</a></li>
+                                <li class="google-plus" style="width: 33%;"><a href="https://plus.google.com/share?url=final-result-of-up-coming-semester-23-24-slot-2" onclick=" javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false; ">g+</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+
+                            <time datetime="Y-0-19">
+                                <span class="day">19</span>
+                                <span class="month">May</span>
+                                <span class="year">2024</span>
+                            </time>
+                        <a href="/2024-magna-charta-observatory-mco-student-essay-competition"></a>
+                        <div class="info">
+                            <h2 class="title">2024 Magna Charta Observatory (MCO) Student Essay Competition.</h2>
+                            <p class="desc">&nbsp; &nbsp; Following the success of last year&rsquo;s event, this competition offers a unique opportunity for university students worldwide to reflect on and propose changes to enhance inclusivity within their higher education experience &nbsp; ...</p>
+                            <a class="info-link" href="/2024-magna-charta-observatory-mco-student-essay-competition">
+                                <div>
+                                    <span class="fa fa-link"></span> Details
+                                </div>
+                            </a>
+                        </div>
+                        <div class="social">
+                            <ul>
+                                <li class="facebook" style="width: 33%;"><a href="http://www.facebook.com/sharer/sharer.php?u=2024-magna-charta-observatory-mco-student-essay-competition" onclick=" javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false; ">f</a></li>
+                                <li class="twitter" style="width: 33%;"><a href="http://twitter.com/intent/tweet?url=2024-magna-charta-observatory-mco-student-essay-competition/&text=2024 Magna Charta Observatory (MCO) Student Essay Competition. - &nbsp; &nbsp; Following the success of last year&rsquo;s event, this competition offers a unique opportunity for university students worldwide to reflect on and propose changes to enhance inclusivity within their higher education experience &nbsp; ..." onclick=" javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false; ">t</a></li>
+                                <li class="google-plus" style="width: 33%;"><a href="https://plus.google.com/share?url=2024-magna-charta-observatory-mco-student-essay-competition" onclick=" javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false; ">g+</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+
+                            <time datetime="Y-0-19">
+                                <span class="day">19</span>
+                                <span class="month">May</span>
+                                <span class="year">2024</span>
+                            </time>
+                        <a href="/computer-science-thesis-internship-notice-summer-23-24"></a>
+                        <div class="info">
+                            <h2 class="title">Computer Science Thesis-Internship Notice Summer 23-24</h2>
+                            <p class="desc">&nbsp; &nbsp; &nbsp; BSCS Internship Course Registration Notice Summer 2023-2024 BSCS Thesis-SP, MSCS Thesis / Cont Final Registration Notice Summer 2023-2024 &nbsp; &nbsp; </p>
+                            <a class="info-link" href="/computer-science-thesis-internship-notice-summer-23-24">
+                                <div>
+                                    <span class="fa fa-link"></span> Details
+                                </div>
+                            </a>
+                        </div>
+                        <div class="social">
+                            <ul>
+                                <li class="facebook" style="width: 33%;"><a href="http://www.facebook.com/sharer/sharer.php?u=computer-science-thesis-internship-notice-summer-23-24" onclick=" javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false; ">f</a></li>
+                                <li class="twitter" style="width: 33%;"><a href="http://twitter.com/intent/tweet?url=computer-science-thesis-internship-notice-summer-23-24/&text=Computer Science Thesis-Internship Notice Summer 23-24 - &nbsp; &nbsp; &nbsp; BSCS Internship Course Registration Notice Summer 2023-2024 BSCS Thesis-SP, MSCS Thesis / Cont Final Registration Notice Summer 2023-2024 &nbsp; &nbsp; " onclick=" javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false; ">t</a></li>
+                                <li class="google-plus" style="width: 33%;"><a href="https://plus.google.com/share?url=computer-science-thesis-internship-notice-summer-23-24" onclick=" javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false; ">g+</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+
+                            <time datetime="Y-0-16">
+                                <span class="day">16</span>
+                                <span class="month">May</span>
+                                <span class="year">2024</span>
+                            </time>
+                        <a href="/probation-students-online-final-registration-guidelines-for-summer-2023-2024"></a>
+                        <div class="info">
+                            <h2 class="title">Probation Students Online Final Registration Guidelines for (Summer 2023 2024)</h2>
+                            <p class="desc">&nbsp; &nbsp; &nbsp; Guidelines &nbsp; </p>
+                            <a class="info-link" href="/probation-students-online-final-registration-guidelines-for-summer-2023-2024">
+                                <div>
+                                    <span class="fa fa-link"></span> Details
+                                </div>
+                            </a>
+                        </div>
+                        <div class="social">
+                            <ul>
+                                <li class="facebook" style="width: 33%;"><a href="http://www.facebook.com/sharer/sharer.php?u=probation-students-online-final-registration-guidelines-for-summer-2023-2024" onclick=" javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false; ">f</a></li>
+                                <li class="twitter" style="width: 33%;"><a href="http://twitter.com/intent/tweet?url=probation-students-online-final-registration-guidelines-for-summer-2023-2024/&text=Probation Students Online Final Registration Guidelines for (Summer 2023 2024) - &nbsp; &nbsp; &nbsp; Guidelines &nbsp; " onclick=" javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false; ">t</a></li>
+                                <li class="google-plus" style="width: 33%;"><a href="https://plus.google.com/share?url=probation-students-online-final-registration-guidelines-for-summer-2023-2024" onclick=" javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false; ">g+</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+
+                            <time datetime="Y-0-16">
+                                <span class="day">16</span>
+                                <span class="month">May</span>
+                                <span class="year">2024</span>
+                            </time>
+                        <a href="/notice-registration-payment-schedule-and-payment-mothod"></a>
+                        <div class="info">
+                            <h2 class="title">Notice: Registration Payment Schedule and Payment method</h2>
+                            <p class="desc">&nbsp; &nbsp; 1st Installment: 50% (minimum) of Tuition Fees and 100% of all other fees: Deadline of First Installment (without fine): Last working day before 1st Day of semester class [OR as declared in Final Registration notice] Deadline of First ...</p>
+                            <a class="info-link" href="/notice-registration-payment-schedule-and-payment-mothod">
+                                <div>
+                                    <span class="fa fa-link"></span> Details
+                                </div>
+                            </a>
+                        </div>
+                        <div class="social">
+                            <ul>
+                                <li class="facebook" style="width: 33%;"><a href="http://www.facebook.com/sharer/sharer.php?u=notice-registration-payment-schedule-and-payment-mothod" onclick=" javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false; ">f</a></li>
+                                <li class="twitter" style="width: 33%;"><a href="http://twitter.com/intent/tweet?url=notice-registration-payment-schedule-and-payment-mothod/&text=Notice: Registration Payment Schedule and Payment method - &nbsp; &nbsp; 1st Installment: 50% (minimum) of Tuition Fees and 100% of all other fees: Deadline of First Installment (without fine): Last working day before 1st Day of semester class [OR as declared in Final Registration notice] Deadline of First ..." onclick=" javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false; ">t</a></li>
+                                <li class="google-plus" style="width: 33%;"><a href="https://plus.google.com/share?url=notice-registration-payment-schedule-and-payment-mothod" onclick=" javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false; ">g+</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+
+                            <time datetime="Y-0-15">
+                                <span class="day">15</span>
+                                <span class="month">May</span>
+                                <span class="year">2024</span>
+                            </time>
+                        <a href="/registration-flowchart-summer-2023-2024"></a>
+                        <div class="info">
+                            <h2 class="title">Registration Flowchart Summer 2023-2024</h2>
+                            <p class="desc">&nbsp; &nbsp; &nbsp; Flowchart &nbsp; </p>
+                            <a class="info-link" href="/registration-flowchart-summer-2023-2024">
+                                <div>
+                                    <span class="fa fa-link"></span> Details
+                                </div>
+                            </a>
+                        </div>
+                        <div class="social">
+                            <ul>
+                                <li class="facebook" style="width: 33%;"><a href="http://www.facebook.com/sharer/sharer.php?u=registration-flowchart-summer-2023-2024" onclick=" javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false; ">f</a></li>
+                                <li class="twitter" style="width: 33%;"><a href="http://twitter.com/intent/tweet?url=registration-flowchart-summer-2023-2024/&text=Registration Flowchart Summer 2023-2024 - &nbsp; &nbsp; &nbsp; Flowchart &nbsp; " onclick=" javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false; ">t</a></li>
+                                <li class="google-plus" style="width: 33%;"><a href="https://plus.google.com/share?url=registration-flowchart-summer-2023-2024" onclick=" javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false; ">g+</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+
+                            <time datetime="Y-0-15">
+                                <span class="day">15</span>
+                                <span class="month">May</span>
+                                <span class="year">2024</span>
+                            </time>
+                        <a href="/academic-calendar-of-summer-2023-2024"></a>
+                        <div class="info">
+                            <h2 class="title">Academic Calendar of Summer 2023-2024</h2>
+                            <p class="desc">&nbsp; &nbsp; &nbsp; Calendar &nbsp; </p>
+                            <a class="info-link" href="/academic-calendar-of-summer-2023-2024">
+                                <div>
+                                    <span class="fa fa-link"></span> Details
+                                </div>
+                            </a>
+                        </div>
+                        <div class="social">
+                            <ul>
+                                <li class="facebook" style="width: 33%;"><a href="http://www.facebook.com/sharer/sharer.php?u=academic-calendar-of-summer-2023-2024" onclick=" javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false; ">f</a></li>
+                                <li class="twitter" style="width: 33%;"><a href="http://twitter.com/intent/tweet?url=academic-calendar-of-summer-2023-2024/&text=Academic Calendar of Summer 2023-2024 - &nbsp; &nbsp; &nbsp; Calendar &nbsp; " onclick=" javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false; ">t</a></li>
+                                <li class="google-plus" style="width: 33%;"><a href="https://plus.google.com/share?url=academic-calendar-of-summer-2023-2024" onclick=" javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false; ">g+</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+
+                            <time datetime="Y-0-15">
+                                <span class="day">15</span>
+                                <span class="month">May</span>
+                                <span class="year">2024</span>
+                            </time>
+                        <a href="/up-coming-semester-23-24-slot-2-written-result-and-viva-schedule"></a>
+                        <div class="info">
+                            <h2 class="title">Up-coming Semester 23-24 (Slot-2) Written Result and Viva Schedule</h2>
+                            <p class="desc">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; RESULT &amp;&nbsp;VIVA SCHEDULE OF &nbsp; ADMISSION WRITTEN EXAM HELD ON 13 MAY 2024 &nbsp; &nbsp; Viva of all selected candidates will be held on MAY 16, 2024 (Thursday) at AIUB Campus, &nbsp; &nbsp; &nbsp; The Final ...</p>
+                            <a class="info-link" href="/up-coming-semester-23-24-slot-2-written-result-and-viva-schedule">
+                                <div>
+                                    <span class="fa fa-link"></span> Details
+                                </div>
+                            </a>
+                        </div>
+                        <div class="social">
+                            <ul>
+                                <li class="facebook" style="width: 33%;"><a href="http://www.facebook.com/sharer/sharer.php?u=up-coming-semester-23-24-slot-2-written-result-and-viva-schedule" onclick=" javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false; ">f</a></li>
+                                <li class="twitter" style="width: 33%;"><a href="http://twitter.com/intent/tweet?url=up-coming-semester-23-24-slot-2-written-result-and-viva-schedule/&text=Up-coming Semester 23-24 (Slot-2) Written Result and Viva Schedule - &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; RESULT &amp;&nbsp;VIVA SCHEDULE OF &nbsp; ADMISSION WRITTEN EXAM HELD ON 13 MAY 2024 &nbsp; &nbsp; Viva of all selected candidates will be held on MAY 16, 2024 (Thursday) at AIUB Campus, &nbsp; &nbsp; &nbsp; The Final ..." onclick=" javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false; ">t</a></li>
+                                <li class="google-plus" style="width: 33%;"><a href="https://plus.google.com/share?url=up-coming-semester-23-24-slot-2-written-result-and-viva-schedule" onclick=" javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false; ">g+</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+
+                            <time datetime="Y-0-12">
+                                <span class="day">12</span>
+                                <span class="month">May</span>
+                                <span class="year">2024</span>
+                            </time>
+                        <a href="/admission-test-written-exam-of-summer-2023-24slot-2-on-may-13-2024monday"></a>
+                        <div class="info">
+                            <h2 class="title">Admission Test Written Exam of Summer 2023-24_Slot-2 on May 13, 2024 (Monday).</h2>
+                            <p class="desc">&nbsp; &nbsp; &nbsp; Overall Seat Plan (Building) Program Wise Seat Plan Seat Plan &nbsp; Admission test WRITTEN RESULT (Summer 2023-24, Slot 2) will be published on May 15, 2024 (Wednesday) at 5 00 PM on all campus notice boards and on the website (www aiub ...</p>
+                            <a class="info-link" href="/admission-test-written-exam-of-summer-2023-24slot-2-on-may-13-2024monday">
+                                <div>
+                                    <span class="fa fa-link"></span> Details
+                                </div>
+                            </a>
+                        </div>
+                        <div class="social">
+                            <ul>
+                                <li class="facebook" style="width: 33%;"><a href="http://www.facebook.com/sharer/sharer.php?u=admission-test-written-exam-of-summer-2023-24slot-2-on-may-13-2024monday" onclick=" javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false; ">f</a></li>
+                                <li class="twitter" style="width: 33%;"><a href="http://twitter.com/intent/tweet?url=admission-test-written-exam-of-summer-2023-24slot-2-on-may-13-2024monday/&text=Admission Test Written Exam of Summer 2023-24_Slot-2 on May 13, 2024 (Monday). - &nbsp; &nbsp; &nbsp; Overall Seat Plan (Building) Program Wise Seat Plan Seat Plan &nbsp; Admission test WRITTEN RESULT (Summer 2023-24, Slot 2) will be published on May 15, 2024 (Wednesday) at 5 00 PM on all campus notice boards and on the website (www aiub ..." onclick=" javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false; ">t</a></li>
+                                <li class="google-plus" style="width: 33%;"><a href="https://plus.google.com/share?url=admission-test-written-exam-of-summer-2023-24slot-2-on-may-13-2024monday" onclick=" javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false; ">g+</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+
+                            <time datetime="Y-0-11">
+                                <span class="day">11</span>
+                                <span class="month">May</span>
+                                <span class="year">2024</span>
+                            </time>
+                        <a href="/seat-plan-of-final-term-spring-2023-2024-day-7-may-12-2024-sunday"></a>
+                        <div class="info">
+                            <h2 class="title">SEAT PLAN OF FINAL TERM SPRING 2023-2024 DAY 7 (May 12, 2024, Sunday)</h2>
+                            <p class="desc">&nbsp; Please contact Exam Control Room&nbsp;if your name or course is not in the list &nbsp; Building D Exam Control Room # 1 (DN0409) Building D Exam Control Room # 2 (DN0410) &nbsp; SLOT-1 (09:00 AM - 11:00 AM) SLOT-2 (12:00 PM - 02:00 PM) SLOT-3 (03:00 PM - ...</p>
+                            <a class="info-link" href="/seat-plan-of-final-term-spring-2023-2024-day-7-may-12-2024-sunday">
+                                <div>
+                                    <span class="fa fa-link"></span> Details
+                                </div>
+                            </a>
+                        </div>
+                        <div class="social">
+                            <ul>
+                                <li class="facebook" style="width: 33%;"><a href="http://www.facebook.com/sharer/sharer.php?u=seat-plan-of-final-term-spring-2023-2024-day-7-may-12-2024-sunday" onclick=" javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false; ">f</a></li>
+                                <li class="twitter" style="width: 33%;"><a href="http://twitter.com/intent/tweet?url=seat-plan-of-final-term-spring-2023-2024-day-7-may-12-2024-sunday/&text=SEAT PLAN OF FINAL TERM SPRING 2023-2024 DAY 7 (May 12, 2024, Sunday) - &nbsp; Please contact Exam Control Room&nbsp;if your name or course is not in the list &nbsp; Building D Exam Control Room # 1 (DN0409) Building D Exam Control Room # 2 (DN0410) &nbsp; SLOT-1 (09:00 AM - 11:00 AM) SLOT-2 (12:00 PM - 02:00 PM) SLOT-3 (03:00 PM - ..." onclick=" javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false; ">t</a></li>
+                                <li class="google-plus" style="width: 33%;"><a href="https://plus.google.com/share?url=seat-plan-of-final-term-spring-2023-2024-day-7-may-12-2024-sunday" onclick=" javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false; ">g+</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+
+                            <time datetime="Y-0-10">
+                                <span class="day">10</span>
+                                <span class="month">May</span>
+                                <span class="year">2024</span>
+                            </time>
+                        <a href="/seat-plan-of-final-term-spring-2023-2024-day-6-may-11-2024-saturday"></a>
+                        <div class="info">
+                            <h2 class="title">SEAT PLAN OF FINAL TERM SPRING 2023-2024 DAY 6 (May 11, 2024, Saturday)</h2>
+                            <p class="desc">&nbsp; Please contact Exam Control Room&nbsp;if your name or course is not in the list &nbsp; Building D Exam Control Room # 1 (DN0409) Building D Exam Control Room # 2 (DN0410) &nbsp; SLOT-1 (09:00 AM - 11:00 AM) SLOT-2 (12:00 PM - 02:00 PM) SLOT-3 (03:00 PM - ...</p>
+                            <a class="info-link" href="/seat-plan-of-final-term-spring-2023-2024-day-6-may-11-2024-saturday">
+                                <div>
+                                    <span class="fa fa-link"></span> Details
+                                </div>
+                            </a>
+                        </div>
+                        <div class="social">
+                            <ul>
+                                <li class="facebook" style="width: 33%;"><a href="http://www.facebook.com/sharer/sharer.php?u=seat-plan-of-final-term-spring-2023-2024-day-6-may-11-2024-saturday" onclick=" javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false; ">f</a></li>
+                                <li class="twitter" style="width: 33%;"><a href="http://twitter.com/intent/tweet?url=seat-plan-of-final-term-spring-2023-2024-day-6-may-11-2024-saturday/&text=SEAT PLAN OF FINAL TERM SPRING 2023-2024 DAY 6 (May 11, 2024, Saturday) - &nbsp; Please contact Exam Control Room&nbsp;if your name or course is not in the list &nbsp; Building D Exam Control Room # 1 (DN0409) Building D Exam Control Room # 2 (DN0410) &nbsp; SLOT-1 (09:00 AM - 11:00 AM) SLOT-2 (12:00 PM - 02:00 PM) SLOT-3 (03:00 PM - ..." onclick=" javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false; ">t</a></li>
+                                <li class="google-plus" style="width: 33%;"><a href="https://plus.google.com/share?url=seat-plan-of-final-term-spring-2023-2024-day-6-may-11-2024-saturday" onclick=" javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false; ">g+</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+
+                            <time datetime="Y-0-8">
+                                <span class="day">08</span>
+                                <span class="month">May</span>
+                                <span class="year">2024</span>
+                            </time>
+                        <a href="/possible-downtime-due-to-aiub-server-maintenance-11th-may-2024"></a>
+                        <div class="info">
+                            <h2 class="title">Possible downtime due to AIUB server maintenance</h2>
+                            <p class="desc">Due to planned AIUB server maintenance, we are shutting down our systems and hence, UMS and all websites will be offline on 11th May,&nbsp; from 5 PM to 10 PM &nbsp; We sincerely apologize for the inconveniences that might have caused and will try our level ...</p>
+                            <a class="info-link" href="/possible-downtime-due-to-aiub-server-maintenance-11th-may-2024">
+                                <div>
+                                    <span class="fa fa-link"></span> Details
+                                </div>
+                            </a>
+                        </div>
+                        <div class="social">
+                            <ul>
+                                <li class="facebook" style="width: 33%;"><a href="http://www.facebook.com/sharer/sharer.php?u=possible-downtime-due-to-aiub-server-maintenance-11th-may-2024" onclick=" javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false; ">f</a></li>
+                                <li class="twitter" style="width: 33%;"><a href="http://twitter.com/intent/tweet?url=possible-downtime-due-to-aiub-server-maintenance-11th-may-2024/&text=Possible downtime due to AIUB server maintenance - Due to planned AIUB server maintenance, we are shutting down our systems and hence, UMS and all websites will be offline on 11th May,&nbsp; from 5 PM to 10 PM &nbsp; We sincerely apologize for the inconveniences that might have caused and will try our level ..." onclick=" javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false; ">t</a></li>
+                                <li class="google-plus" style="width: 33%;"><a href="https://plus.google.com/share?url=possible-downtime-due-to-aiub-server-maintenance-11th-may-2024" onclick=" javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false; ">g+</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+
+                            <time datetime="Y-0-8">
+                                <span class="day">08</span>
+                                <span class="month">May</span>
+                                <span class="year">2024</span>
+                            </time>
+                        <a href="/seat-plan-of-final-term-spring-2023-2024-day-5-may-09-2024-thursday"></a>
+                        <div class="info">
+                            <h2 class="title">SEAT PLAN OF FINAL TERM SPRING 2023-2024 DAY 5 (May 09, 2024, Thursday)</h2>
+                            <p class="desc">&nbsp; Please contact Exam Control Room&nbsp;if your name or course is not in the list &nbsp; Building D Exam Control Room # 1 (DN0409) Building D Exam Control Room # 2 (DN0410) &nbsp; SLOT-1 (09:00 AM - 11:00 AM) SLOT-2 (12:00 PM - 02:00 PM) SLOT-3 (03:00 PM - ...</p>
+                            <a class="info-link" href="/seat-plan-of-final-term-spring-2023-2024-day-5-may-09-2024-thursday">
+                                <div>
+                                    <span class="fa fa-link"></span> Details
+                                </div>
+                            </a>
+                        </div>
+                        <div class="social">
+                            <ul>
+                                <li class="facebook" style="width: 33%;"><a href="http://www.facebook.com/sharer/sharer.php?u=seat-plan-of-final-term-spring-2023-2024-day-5-may-09-2024-thursday" onclick=" javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false; ">f</a></li>
+                                <li class="twitter" style="width: 33%;"><a href="http://twitter.com/intent/tweet?url=seat-plan-of-final-term-spring-2023-2024-day-5-may-09-2024-thursday/&text=SEAT PLAN OF FINAL TERM SPRING 2023-2024 DAY 5 (May 09, 2024, Thursday) - &nbsp; Please contact Exam Control Room&nbsp;if your name or course is not in the list &nbsp; Building D Exam Control Room # 1 (DN0409) Building D Exam Control Room # 2 (DN0410) &nbsp; SLOT-1 (09:00 AM - 11:00 AM) SLOT-2 (12:00 PM - 02:00 PM) SLOT-3 (03:00 PM - ..." onclick=" javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false; ">t</a></li>
+                                <li class="google-plus" style="width: 33%;"><a href="https://plus.google.com/share?url=seat-plan-of-final-term-spring-2023-2024-day-5-may-09-2024-thursday" onclick=" javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false; ">g+</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+
+                            <time datetime="Y-0-7">
+                                <span class="day">07</span>
+                                <span class="month">May</span>
+                                <span class="year">2024</span>
+                            </time>
+                        <a href="/seat-plan-of-final-term-spring-2023-2024-day-4-may-08-2024-wednesday"></a>
+                        <div class="info">
+                            <h2 class="title">SEAT PLAN OF FINAL TERM SPRING 2023-2024 DAY 4 (May 08, 2024, Wednesday)</h2>
+                            <p class="desc">&nbsp; Please contact Exam Control Room&nbsp;if your name or course is not in the list &nbsp; Building D Exam Control Room # 1 (DN0409) Building D Exam Control Room # 2 (DN0410) &nbsp; SLOT-1 (09:00 AM - 11:00 AM) SLOT-2 (12:00 PM - 02:00 PM) SLOT-3 (03:00 PM - ...</p>
+                            <a class="info-link" href="/seat-plan-of-final-term-spring-2023-2024-day-4-may-08-2024-wednesday">
+                                <div>
+                                    <span class="fa fa-link"></span> Details
+                                </div>
+                            </a>
+                        </div>
+                        <div class="social">
+                            <ul>
+                                <li class="facebook" style="width: 33%;"><a href="http://www.facebook.com/sharer/sharer.php?u=seat-plan-of-final-term-spring-2023-2024-day-4-may-08-2024-wednesday" onclick=" javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false; ">f</a></li>
+                                <li class="twitter" style="width: 33%;"><a href="http://twitter.com/intent/tweet?url=seat-plan-of-final-term-spring-2023-2024-day-4-may-08-2024-wednesday/&text=SEAT PLAN OF FINAL TERM SPRING 2023-2024 DAY 4 (May 08, 2024, Wednesday) - &nbsp; Please contact Exam Control Room&nbsp;if your name or course is not in the list &nbsp; Building D Exam Control Room # 1 (DN0409) Building D Exam Control Room # 2 (DN0410) &nbsp; SLOT-1 (09:00 AM - 11:00 AM) SLOT-2 (12:00 PM - 02:00 PM) SLOT-3 (03:00 PM - ..." onclick=" javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false; ">t</a></li>
+                                <li class="google-plus" style="width: 33%;"><a href="https://plus.google.com/share?url=seat-plan-of-final-term-spring-2023-2024-day-4-may-08-2024-wednesday" onclick=" javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false; ">g+</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+
+                            <time datetime="Y-0-6">
+                                <span class="day">06</span>
+                                <span class="month">May</span>
+                                <span class="year">2024</span>
+                            </time>
+                        <a href="/seat-plan-of-final-term-spring-2023-2024-day-3-may-07-2024-tuesday"></a>
+                        <div class="info">
+                            <h2 class="title">SEAT PLAN OF FINAL TERM SPRING 2023-2024 DAY 3 (May 07, 2024, Tuesday)</h2>
+                            <p class="desc">&nbsp; Please contact Exam Control Room&nbsp;if your name or course is not in the list &nbsp; Building D Exam Control Room # 1 (DN0409) Building D Exam Control Room # 2 (DN0410) &nbsp; SLOT-1 (09:00 AM - 11:00 AM) SLOT-2 (12:00 PM - 02:00 PM) SLOT-3 (03:00 PM - ...</p>
+                            <a class="info-link" href="/seat-plan-of-final-term-spring-2023-2024-day-3-may-07-2024-tuesday">
+                                <div>
+                                    <span class="fa fa-link"></span> Details
+                                </div>
+                            </a>
+                        </div>
+                        <div class="social">
+                            <ul>
+                                <li class="facebook" style="width: 33%;"><a href="http://www.facebook.com/sharer/sharer.php?u=seat-plan-of-final-term-spring-2023-2024-day-3-may-07-2024-tuesday" onclick=" javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false; ">f</a></li>
+                                <li class="twitter" style="width: 33%;"><a href="http://twitter.com/intent/tweet?url=seat-plan-of-final-term-spring-2023-2024-day-3-may-07-2024-tuesday/&text=SEAT PLAN OF FINAL TERM SPRING 2023-2024 DAY 3 (May 07, 2024, Tuesday) - &nbsp; Please contact Exam Control Room&nbsp;if your name or course is not in the list &nbsp; Building D Exam Control Room # 1 (DN0409) Building D Exam Control Room # 2 (DN0410) &nbsp; SLOT-1 (09:00 AM - 11:00 AM) SLOT-2 (12:00 PM - 02:00 PM) SLOT-3 (03:00 PM - ..." onclick=" javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false; ">t</a></li>
+                                <li class="google-plus" style="width: 33%;"><a href="https://plus.google.com/share?url=seat-plan-of-final-term-spring-2023-2024-day-3-may-07-2024-tuesday" onclick=" javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false; ">g+</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+
+                            <time datetime="Y-0-5">
+                                <span class="day">05</span>
+                                <span class="month">May</span>
+                                <span class="year">2024</span>
+                            </time>
+                        <a href="/seat-plan-of-final-term-spring-2023-2024-day-2-may-06-2024-monday"></a>
+                        <div class="info">
+                            <h2 class="title">SEAT PLAN OF FINAL TERM SPRING 2023-2024 DAY 2 (May 06, 2024, Monday)</h2>
+                            <p class="desc">&nbsp; Please contact Exam Control Room&nbsp;if your name or course is not in the list &nbsp; Building D Exam Control Room # 1 (DN0409) Building D Exam Control Room # 2 (DN0410) &nbsp; SLOT-1 (09:00 AM - 11:00 AM) SLOT-2 (12:00 PM - 02:00 PM) SLOT-3 (03:00 PM - ...</p>
+                            <a class="info-link" href="/seat-plan-of-final-term-spring-2023-2024-day-2-may-06-2024-monday">
+                                <div>
+                                    <span class="fa fa-link"></span> Details
+                                </div>
+                            </a>
+                        </div>
+                        <div class="social">
+                            <ul>
+                                <li class="facebook" style="width: 33%;"><a href="http://www.facebook.com/sharer/sharer.php?u=seat-plan-of-final-term-spring-2023-2024-day-2-may-06-2024-monday" onclick=" javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false; ">f</a></li>
+                                <li class="twitter" style="width: 33%;"><a href="http://twitter.com/intent/tweet?url=seat-plan-of-final-term-spring-2023-2024-day-2-may-06-2024-monday/&text=SEAT PLAN OF FINAL TERM SPRING 2023-2024 DAY 2 (May 06, 2024, Monday) - &nbsp; Please contact Exam Control Room&nbsp;if your name or course is not in the list &nbsp; Building D Exam Control Room # 1 (DN0409) Building D Exam Control Room # 2 (DN0410) &nbsp; SLOT-1 (09:00 AM - 11:00 AM) SLOT-2 (12:00 PM - 02:00 PM) SLOT-3 (03:00 PM - ..." onclick=" javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false; ">t</a></li>
+                                <li class="google-plus" style="width: 33%;"><a href="https://plus.google.com/share?url=seat-plan-of-final-term-spring-2023-2024-day-2-may-06-2024-monday" onclick=" javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false; ">g+</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+
+                            <time datetime="Y-0-5">
+                                <span class="day">05</span>
+                                <span class="month">May</span>
+                                <span class="year">2024</span>
+                            </time>
+                        <a href="/combined-notifications-from-every-department-regarding-set-b-exam-spring-23-24"></a>
+                        <div class="info">
+                            <h2 class="title">Combined Set-B Exam notice, from Every Department, Spring 23-24 (EEE, FBA, FASS, CS)</h2>
+                            <p class="desc">&nbsp; &nbsp; &nbsp; Spring 2023-24 Final Term Set B Exam Notice for the Courses Offered by Department of EEE, CoE and IPE FBA FASS CS &nbsp; </p>
+                            <a class="info-link" href="/combined-notifications-from-every-department-regarding-set-b-exam-spring-23-24">
+                                <div>
+                                    <span class="fa fa-link"></span> Details
+                                </div>
+                            </a>
+                        </div>
+                        <div class="social">
+                            <ul>
+                                <li class="facebook" style="width: 33%;"><a href="http://www.facebook.com/sharer/sharer.php?u=combined-notifications-from-every-department-regarding-set-b-exam-spring-23-24" onclick=" javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false; ">f</a></li>
+                                <li class="twitter" style="width: 33%;"><a href="http://twitter.com/intent/tweet?url=combined-notifications-from-every-department-regarding-set-b-exam-spring-23-24/&text=Combined Set-B Exam notice, from Every Department, Spring 23-24 (EEE, FBA, FASS, CS) - &nbsp; &nbsp; &nbsp; Spring 2023-24 Final Term Set B Exam Notice for the Courses Offered by Department of EEE, CoE and IPE FBA FASS CS &nbsp; " onclick=" javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false; ">t</a></li>
+                                <li class="google-plus" style="width: 33%;"><a href="https://plus.google.com/share?url=combined-notifications-from-every-department-regarding-set-b-exam-spring-23-24" onclick=" javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false; ">g+</a></li>
+                            </ul>
+                        </div>
+                    </li>
+            </ul>
+            <nav>
+                <ul class="pager">
+                    <li><a href="/category/notices?pageNo=0&pageSize=20"><i class="fa fa-step-backward"></i> Previous</a></li>
+                    <li><a href="/category/notices?pageNo=2&pageSize=20">Next <i class="fa fa-step-forward"></i></a></li>
+                </ul>
+            </nav>
+        </div>
+       
+    </div>
+</div>
+
+    
+<div class="color-bar"></div>
+<footer>
+    <div class="aiub-footer-wrapper ">
+        <div class="aiub-footer-container container clearfix">
+            <div class="row">
+                <div class="col-md-3 col-sm-6 aiub-item-pdlr aiub-column-15">
+                    <div id="text-2" class="widget widget_text aiub-widget">
+                        <div class="textwidget">
+                            <div style="display: flex;justify-content: center; padding-bottom: 10px;">
+                                <img class="img-fluid" src="/Files/Templates/NewAIUB/assets/images/aiub-logo.svg" alt="" />
+                            </div>
+
+                            <div>
+
+                                <strong>American International University-Bangladesh (AIUB)</strong> <br>
+                                <i class="fa fa-map-marker"></i> 408/1 (Old KA 66/1), Kuratoli, Khilkhet,<br>Dhaka 1229, Bangladesh
+                                <br>
+                                <i class="fa fa-envelope"></i> info@aiub.edu
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6 aiub-item-pdlr aiub-column-15">
+                    <div class="aiub-widget">
+                        <h3 class="aiub-widget-title">Become AIUBian</h3><span class="clear"></span>
+                        <div class="menu-our-campus-container">
+                            <ul id="menu-our-campus" class=" ">
+                                <li class="menu-item"><a href="/future-Students">Future Students</a></li>
+                                <li class="menu-item"><a href="/onCampus">On Campus</a></li>
+                                <li class="menu-item"><a href="/admission">Admission</a></li>
+                                <li class="menu-item"><a href="/tuition-fee">Tuition Fees</a></li>
+                                <li class="menu-item"><a href="#">Scholarships </a></li>
+                                <li class="menu-item"><a href="https://admission.aiub.edu/">Apply Now</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6 aiub-item-pdlr aiub-column-15">
+                    <div class="aiub-widget">
+                        <h3 class="aiub-widget-title">Academics</h3><span class="clear"></span>
+                        <div class="menu-campus-life-container">
+                            <ul id="menu-campus-life" class=" ">
+                                <li class="menu-item"><a href="/academic-calendar">Academic Calendar</a></li>
+                                <li class="menu-item"><a href="/academic-regulations">Academic Regulations</a></li>
+                                <li class="menu-item"><a href="/faculties/fass">Faculty of Arts & Social Sciences</a></li>
+                                <li class="menu-item"><a href="/faculties/fba">Faculty of Business Administration</a></li>
+                                <li class="menu-item"><a href="/faculties/engg">Faculty of Engineering</a></li>
+                                <li class="menu-item"><a href="/faculties/fst">Faculty of Science & Technology</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6 aiub-item-pdlr aiub-column-15">
+                    <div class="widget widget_ aiub-widget">
+                        <h3 class="aiub-widget-title">Research</h3><span class="clear"></span>
+                        <div class="menu-academics-container">
+                            <ul id="menu-academics" class=" ">
+                                <li class="menu-item"><a href="https://ajbe.aiub.edu/">AJBE</a></li>
+                                <li class="menu-item"><a href="http://ajse.aiub.edu/index.php/ajse">AJSE</a></li>
+                                <li class="menu-item"><a href="/research/past-conferences">Past Conferences</a></li>
+                                <li class="menu-item"><a href="/research/upcoming-conferences">Upcoming Conferences</a></li>
+                                <li class="menu-item"><a href="/research/collaborating-institutes">Collaborating Institutes</a></li>
+                                <li class="menu-item"><a href="/research/innovations">Innovations</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="aiub-copyright-wrapper">
+        <div class="aiub-copyright-container container">
+            <div class="row">
+                <div id="aiub-copyright" class="col-md-6 ">
+                    <span>
+                        2000-2019 &copy; <a href="/">American International University-Bangladesh</a> under
+                        registration 9988-COPR
+                    </span>
+                    <div class="">
+                        Powered by <a href="http://itsd.aiub.edu" target="_blank" rel="AIUB Software Development Department">AIUB Software Development Department</a>
+                    </div>
+                </div>
+                <div class="col-md-6 ">
+                    <div class="float-right">
+                        <a href="https://facebook.com/aiub.edu" target="_blank" title="facebook"><i class="fa fa-facebook"></i></a>
+                                <a href="https://www.linkedin.com/school/aiubedu/" target="_blank" title="linkedin"><i class="fa fa-linkedin"></i></a>
+                                <a href="https://twitter.com/aiub_edu" target="_blank" title="twitter"><i class="fa fa-twitter"></i></a>
+                                <a href="https://www.instagram.com/aiubedu/" target="_blank" title="instagram"><i class="fa fa-instagram"></i></a>
+                                <a href="#" target="_blank" title="youtube"><i class="fa fa-youtube"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+</body>
+</html>
+
