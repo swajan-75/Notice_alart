@@ -1,14 +1,23 @@
-﻿using System;
+using System;
 using System.Net.Http;
 using System.Threading.Tasks;
 using HtmlAgilityPack;
-using Newtonsoft.Json;
+using Telegram.Bot;
+using Telegram.Bot.Extensions;
+using Telegram.Bot.Args;
+using Telegram.Bot.Types;
 using System.IO;
+using System.Collections.Generic;
+using Telegram.Bot.Types.Enums;
+
 
 class Program
 {
-    public static string token = ""; // use telegram token
-    public static string chatId = ""; // use yout user id
+    private static TelegramBotClient botClient;
+    public static string token = "7166228483:AAGD2P3z0o004YCT9jPMTz_EogX3zBcMEo8";
+    //public static string chatId = "1274939394";
+    public static List<string> chatIds = new List<string> { "1274939394", "1892288693"};
+
 
     static async Task<string> GetHtmlContent(string url)
     {
@@ -37,20 +46,23 @@ class Program
     }
     public static async Task message_sender(string messageText)
     {
-        string url = $"https://api.telegram.org/bot{token}/sendMessage?chat_id={chatId}&text={Uri.EscapeDataString(messageText)}";
-        using (var client = new HttpClient())
+       using (var client = new HttpClient())
         {
             try
             {
-                HttpResponseMessage response = await client.GetAsync(url);
+                foreach (var chatId in chatIds)
+                {
+                    string url = $"https://api.telegram.org/bot{token}/sendMessage?chat_id={chatId}&text={Uri.EscapeDataString(messageText)}";
+                    HttpResponseMessage response = await client.GetAsync(url);
 
-                if (response.IsSuccessStatusCode)
-                {
-                   // Console.WriteLine("Message sent successfully!");
-                }
-                else
-                {
-                    Console.WriteLine($"Error sending message: {response.StatusCode}");
+                    if (response.IsSuccessStatusCode)
+                    {
+                        //Console.WriteLine($"Message sent to chat ID {chatId} successfully!");
+                    }
+                    else
+                    {
+                        Console.WriteLine($"Error sending message to chat ID {chatId}: {response.StatusCode}");
+                    }
                 }
             }
             catch (HttpRequestException e)
@@ -80,9 +92,9 @@ class Program
             }
 
             List<string> existingHrefValues = new List<string>();
-            if (File.Exists("notice.txt"))
+            if (System.IO.File.Exists("notice.txt"))
             {
-                existingHrefValues = File.ReadAllLines("notice.txt").ToList();
+                existingHrefValues = System.IO.File.ReadAllLines("notice.txt").ToList();
             }
             newNotices = newHrefValues.Except(existingHrefValues).ToList();
             if (newNotices.Any())
@@ -104,17 +116,35 @@ class Program
 
         return newNotices;
     }
+     static async Task CheckAndSendNotices()
+    {
+        string url = "https://www.aiub.edu/category/notices";
+        List<string> newNotices = await GetNewNotices(url);
+        foreach (var notice in newNotices)
+        {
+            string[] parts = notice.Split(new char[] { '/' }, StringSplitOptions.RemoveEmptyEntries);
+            string formattedNotice = string.Join(" ", parts.Select(part => part.Replace("-", " ")));
+            Console.WriteLine("New Notice: " + formattedNotice);
+            await message_sender("New Notice: " + formattedNotice+"\n"+"https://www.aiub.edu"+notice);
+        }
+    }
+    
+
     static async Task Main(string[] args)
     {
-       
-       string url = "https://www.aiub.edu/category/notices";
-List<string> newNotices = await GetNewNotices(url);
-foreach (var notice in newNotices)
-{
-    string[] parts = notice.Split(new char[] { '/' }, StringSplitOptions.RemoveEmptyEntries);
-    string formattedNotice = string.Join(" ", parts.Select(part => part.Replace("-", " ")));
-    Console.WriteLine("New Notice: " + formattedNotice);
-    await message_sender("New Notice: " + formattedNotice);
-}
+        
+       DateTime lastChecked = DateTime.Now;
+
+    while (true)
+    {
+        lastChecked = DateTime.Now;
+        Console.WriteLine($"Running... Last checked: {lastChecked}");
+        await CheckAndSendNotices();
+        lastChecked = DateTime.Now;
+        await Task.Delay(TimeSpan.FromMinutes(5));
+    }
+    
+     // botClient = new TelegramBotClient(token);
+      
     }
 }
