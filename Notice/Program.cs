@@ -14,9 +14,9 @@ using Telegram.Bot.Types.Enums;
 class Program
 {
     private static TelegramBotClient botClient;
-    public static string token = "7166228483:AAGD2P3z0o004YCT9jPMTz_EogX3zBcMEo8";
+    public static string token = "";
     //public static string chatId = "1274939394";
-    public static List<string> chatIds = new List<string> { "1274939394", "1892288693"};
+    public static List<string> chatIds = new List<string> { ""};
 
 
     static async Task<string> GetHtmlContent(string url)
