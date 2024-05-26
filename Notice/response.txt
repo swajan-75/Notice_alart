@@ -100,3 +100,42 @@ Response: /help
 ID: 1274939394 | Date: 5/26/2024 | Time: 3:54 PM
 Response: Any
 
+ID: 1274939394 | Date: 5/26/2024 | Time: 4:07 PM
+Response: Hks
+
+ID: 1274939394 | Date: 5/26/2024 | Time: 4:07 PM
+Response: /last
+
+ID: 1274939394 | Date: 5/26/2024 | Time: 4:08 PM
+Response: Hj
+
+ID: 1274939394 | Date: 5/26/2024 | Time: 4:08 PM
+Response: /last
+
+ID: 1274939394 | Date: 5/26/2024 | Time: 4:10 PM
+Response: /last
+
+ID: 1274939394 | Date: 5/26/2024 | Time: 4:12 PM
+Response: /last
+
+ID: 1274939394 | Date: 5/26/2024 | Time: 4:13 PM
+Response: /last
+
+ID: 1274939394 | Date: 5/26/2024 | Time: 4:13 PM
+Response: /addme
+
+ID: 1274939394 | Date: 5/26/2024 | Time: 4:13 PM
+Response: /feedback
+
+ID: 1274939394 | Date: 5/26/2024 | Time: 4:13 PM
+Response: Hkkgff
+
+ID: 1090118356 | Date: 5/26/2024 | Time: 4:15 PM
+Response: /start
+
+ID: 1090118356 | Date: 5/26/2024 | Time: 4:15 PM
+Response: /addme
+
+ID: 1090118356 | Date: 5/26/2024 | Time: 4:17 PM
+Response: /last
+

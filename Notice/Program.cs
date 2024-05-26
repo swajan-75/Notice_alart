@@ -238,7 +238,7 @@ private static void start_bot( ){
             {
                 //SaveFeedback(update.Message);
                 last_command ="feedback";
-                await bot.SendTextMessageAsync(update.Message.Chat.Id, "Typr Your feedback or report ");
+                await bot.SendTextMessageAsync(update.Message.Chat.Id, "Type Your feedback or report ");
             }
             else if (text.StartsWith("/last", StringComparison.OrdinalIgnoreCase))
             {
@@ -305,14 +305,28 @@ private static async Task SendLogFile(long adminId)
     }
     private static string GetLastNotice()
 {
-    if (System.IO.File.Exists("Notice.txt"))
+    string filePath = "Notice.txt";
+    
+    if (System.IO.File.Exists(filePath))
     {
-        var lines = System.IO.File.ReadAllLines("Notice.txt");
-        if (lines.Length > 0)
+        try
         {
-            return lines[lines.Length - 1]; 
+            // Read the file using explicit encoding (UTF-8)
+            var lines = System.IO.File.ReadAllLines(filePath, Encoding.UTF8);
+            
+            // Check if there are any lines
+            if (lines.Length > 0)
+            {
+                // Return the first notice
+                return lines[0];
+            }
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"An error occurred while reading the file: {ex.Message}");
         }
     }
+    
     return "No notices available.";
 }
 private static void SaveResponse(Message message)
