@@ -180,15 +180,13 @@ private static void start_bot( ){
         while (true)
         {
             lastChecked = DateTime.Now;
-            //Console.WriteLine($"Running... Last checked: {lastChecked}");
+            Console.WriteLine($"Running... Last checked: {lastChecked}");
             Log($"Running... Last checked: {lastChecked}");
             await CheckAndSendNotices();
             lastChecked = DateTime.Now;
             await Task.Delay(TimeSpan.FromMinutes(5));
         }
     });
-
-    // Keep the console application running
     Console.ReadLine();
 
       
@@ -236,7 +234,6 @@ private static void start_bot( ){
                 await bot.SendTextMessageAsync(update.Message.Chat.Id, "You have been removed!");
             }else if (text.StartsWith("/feedback", StringComparison.OrdinalIgnoreCase))
             {
-                //SaveFeedback(update.Message);
                 last_command ="feedback";
                 await bot.SendTextMessageAsync(update.Message.Chat.Id, "Type Your feedback or report ");
             }
@@ -311,13 +308,9 @@ private static async Task SendLogFile(long adminId)
     {
         try
         {
-            // Read the file using explicit encoding (UTF-8)
             var lines = System.IO.File.ReadAllLines(filePath, Encoding.UTF8);
-            
-            // Check if there are any lines
             if (lines.Length > 0)
             {
-                // Return the first notice
                 return lines[0];
             }
         }
