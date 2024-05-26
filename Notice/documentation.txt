@@ -1,0 +1,10 @@
+Welcome to our bot! Here are the available commands:
+
+/help - See all the available shortcuts.
+/start - Start the bot.
+/addme - Start receiving notices.
+/last - Get the last notice from the website.
+/stop - Stop receiving notices.
+/feedback - Give feedback or report.
+
+Feel free to explore these commands and let us know if you have any questions or feedback!
