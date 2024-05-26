@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c3exp2fAtyw=",
+  "dgSpecHash": "FvbBJLtTZJs=",
   "success": true,
-  "projectFilePath": "/Users/swajanbaruah/Desktop/web/Notice/Notice/Notice.csproj",
+  "projectFilePath": "/Users/swajanbaruah/Desktop/testgit/Notice_alart/Notice/Notice.csproj",
   "expectedPackageFiles": [
     "/Users/swajanbaruah/.nuget/packages/htmlagilitypack/1.11.61/htmlagilitypack.1.11.61.nupkg.sha512",
     "/Users/swajanbaruah/.nuget/packages/microsoft.extensions.configuration/6.0.0/microsoft.extensions.configuration.6.0.0.nupkg.sha512",
@@ -44,9 +44,9 @@
     "/Users/swajanbaruah/.nuget/packages/telegram.bot.extensions/1.0.0/telegram.bot.extensions.1.0.0.nupkg.sha512",
     "/Users/swajanbaruah/.nuget/packages/telegram.bots/5.9.0/telegram.bots.5.9.0.nupkg.sha512",
     "/Users/swajanbaruah/.nuget/packages/telegram.bots.extensions.polling/5.9.0/telegram.bots.extensions.polling.5.9.0.nupkg.sha512",
+    "/Users/swajanbaruah/.nuget/packages/microsoft.netcore.app.ref/7.0.19/microsoft.netcore.app.ref.7.0.19.nupkg.sha512",
     "/Users/swajanbaruah/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.19/microsoft.aspnetcore.app.ref.7.0.19.nupkg.sha512",
-    "/Users/swajanbaruah/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.19/microsoft.netcore.app.host.osx-arm64.7.0.19.nupkg.sha512",
-    "/Users/swajanbaruah/.nuget/packages/microsoft.netcore.app.ref/7.0.19/microsoft.netcore.app.ref.7.0.19.nupkg.sha512"
+    "/Users/swajanbaruah/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.19/microsoft.netcore.app.host.osx-arm64.7.0.19.nupkg.sha512"
   ],
   "logs": []
 }
