@@ -15,6 +15,7 @@ using System.Text;
 class Program
 {
     private static TelegramBotClient botClient;
+    public static String last_command ="non";
     public static string logFilePath = "system_log.txt";
     public static string token = "7166228483:AAGD2P3z0o004YCT9jPMTz_EogX3zBcMEo8";
     public static string admin_id = "1274939394";
@@ -211,34 +212,38 @@ private static void start_bot( ){
             
             Console.WriteLine($"{username} | {id} | {text}");
             SaveResponse(update.Message);
-            if (text.StartsWith("/addme") || text.StartsWith("/start"))
+           
+            if(last_command=="feedback"){
+                SaveFeedback(update.Message);
+                last_command ="non";
+                await bot.SendTextMessageAsync(update.Message.Chat.Id, "Thank you for your feedback!");
+            }else{
+            if (text.StartsWith("/start",StringComparison.OrdinalIgnoreCase) || text.StartsWith("/addme",StringComparison.OrdinalIgnoreCase))
             {
-                if(text.StartsWith("/start",StringComparison.OrdinalIgnoreCase)){
-                   
-                    await bot.SendTextMessageAsync(update.Message.Chat.Id, "Welcome to our bot! Here are the available commands:\n/help - See all the available shortcuts.\n/start - Start the bot.\n/addme - Start receiving notices.\n/last - Get the last notice from the website.\n/stop - Stop receiving notices.\n/feedback - Give feedback.\nFeel free to explore these commands and let us know if you have any questions or feedback!");
-                }
+                
                 if (!UserExists(id, username))
                 {
                     AddUser(id,username);
-                    await bot.SendTextMessageAsync(update.Message.Chat.Id, "You have been added!");
+                    await bot.SendTextMessageAsync(update.Message.Chat.Id, "Welcome to our bot! \nYou have been added! \n Here are the available commands:\n/help - See all the available shortcuts.\n/start - Start the bot.\n/addme - Start receiving notices.\n/last - Get the last notice from the website.\n/stop - Stop receiving notices.\n/feedback - Give feedback.\nFeel free to explore these commands and let us know if you have any questions or feedback!");
+                }else{
+                    await bot.SendTextMessageAsync(update.Message.Chat.Id, "You are already added! \n Here are the available commands:\n/help - See all the available shortcuts.\n/start - Start the bot.\n/addme - Start receiving notices.\n/last - Get the last notice from the website.\n/stop - Stop receiving notices.\n/feedback - Give feedback.\nFeel free to explore these commands and let us know if you have any questions or feedback!");
+                
                 }
-                else
-                {
-                    await bot.SendTextMessageAsync(update.Message.Chat.Id, "You are already added!");
-                }
+                
             }else if (text.StartsWith("/stop", StringComparison.OrdinalIgnoreCase))
             {
                 RemoveUser(id);
                 await bot.SendTextMessageAsync(update.Message.Chat.Id, "You have been removed!");
             }else if (text.StartsWith("/feedback", StringComparison.OrdinalIgnoreCase))
             {
-                SaveFeedback(update.Message);
-                await bot.SendTextMessageAsync(update.Message.Chat.Id, "Thank you for your feedback!");
+                //SaveFeedback(update.Message);
+                last_command ="feedback";
+                await bot.SendTextMessageAsync(update.Message.Chat.Id, "Typr Your feedback or report ");
             }
             else if (text.StartsWith("/last", StringComparison.OrdinalIgnoreCase))
             {
                 string lastNotice = GetLastNotice();
-                await bot.SendTextMessageAsync(update.Message.Chat.Id, lastNotice);
+                await bot.SendTextMessageAsync(update.Message.Chat.Id, "https://www.aiub.edu"+lastNotice);
             }
             else if (text.StartsWith("/help", StringComparison.OrdinalIgnoreCase))
             {
@@ -252,6 +257,7 @@ private static void start_bot( ){
             else{
                 await bot.SendTextMessageAsync(update.Message.Chat.Id, "Here are the available commands:\n/help - See all the available shortcuts.\n/start - Start the bot.\n/addme - Start receiving notices.\n/last - Get the last notice from the website.\n/stop - Stop receiving notices.\n/feedback - Give feedback.\nFeel free to explore these commands and let us know if you have any questions or feedback!");
             }
+        }
             
         }
     }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/swajanbaruah/Desktop/web/Notice/Notice/Notice.csproj": {}
+    "/Users/swajanbaruah/Desktop/testgit/Notice_alart/Notice/Notice.csproj": {}
   },
   "projects": {
-    "/Users/swajanbaruah/Desktop/web/Notice/Notice/Notice.csproj": {
+    "/Users/swajanbaruah/Desktop/testgit/Notice_alart/Notice/Notice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/swajanbaruah/Desktop/web/Notice/Notice/Notice.csproj",
+        "projectUniqueName": "/Users/swajanbaruah/Desktop/testgit/Notice_alart/Notice/Notice.csproj",
         "projectName": "Notice",
-        "projectPath": "/Users/swajanbaruah/Desktop/web/Notice/Notice/Notice.csproj",
+        "projectPath": "/Users/swajanbaruah/Desktop/testgit/Notice_alart/Notice/Notice.csproj",
         "packagesPath": "/Users/swajanbaruah/.nuget/packages/",
-        "outputPath": "/Users/swajanbaruah/Desktop/web/Notice/Notice/obj/",
+        "outputPath": "/Users/swajanbaruah/Desktop/testgit/Notice_alart/Notice/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/swajanbaruah/.nuget/NuGet/NuGet.Config"
