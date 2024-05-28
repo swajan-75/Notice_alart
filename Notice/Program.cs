@@ -17,7 +17,7 @@ class Program
     private static TelegramBotClient botClient;
     public static String last_command ="non";
     public static string logFilePath = "system_log.txt";
-    public static string token = "7166228483:AAGD2P3z0o004YCT9jPMTz_EogX3zBcMEo8";
+    public static string token = "7154009119:AAEH79zMnunwz7EPdqz7wMP8cUyKwkdwH5c";
     public static string admin_id = "1274939394";
    // public static List<string> chatIds = new List<string> { "1274939394", "1892288693"};
 
@@ -188,8 +188,20 @@ private static void start_bot( ){
         }
     });
 
+     await Task.Run(() =>
+    {
+        ConsoleKeyInfo keyInfo;
+        do
+        {
+            keyInfo = Console.ReadKey(intercept: true);
+        } while (keyInfo.Key != ConsoleKey.Escape);
+    });
+
+    // Stop the application
+    Log("Program stopped. : ");
+
     // Keep the console application running
-    Console.ReadLine();
+   // Console.ReadLine();
 
       
     }
