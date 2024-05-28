@@ -187,7 +187,11 @@ private static void start_bot( ){
             await Task.Delay(TimeSpan.FromMinutes(5));
         }
     });
+
+
+  
     Console.ReadLine();
+
 
       
     }
